@@ -3,6 +3,6 @@ I’m **Anusha**, a data enthusiast with **4.5 years of experience in data scien
 
 💡  [Swire Coca-Cola Project (Fall 2024)](https://github.com/Anusha-Vivekanand/Fall2024Capstone/): I developed a predictive maintenance model to minimize machine downtimes, leveraging over 1.4M work orders to optimize resource allocation and reduce costs. I have experimented with Survival Analysis and have robustness checks implemented.
 
-💡 **Home Credit Default Risk Analysis (Spring 2024)**: I built machine learning models using Python to predict loan repayment ability, tackling class imbalance and achieving meaningful business insights to enhance credit scoring systems.
+💡 [Home Credit Default Risk Analysis (Spring 2024)](https://github.com/Anusha-Vivekanand/Spring2024Capstone): I built machine learning models using Python to predict loan repayment ability, tackling class imbalance and achieving meaningful business insights to enhance credit scoring systems.
 
 📊 These projects reflect my passion for extracting insights from complex datasets and creating data-driven solutions. I enjoy working with Python, Alteryx (Core Certified), R, SQL, and visualization tools like Tableau and Power BI to turn messy data into clear, actionable solutions. Whether it’s optimizing operations or forecasting demand, I focus on creating work that drives real impact. Explore my repositories to dive deeper into the process and outcomes. Let’s connect and collaborate on impactful analytics projects!
