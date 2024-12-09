@@ -5,4 +5,4 @@ I’m **Anusha**, a data enthusiast with **4.5 years of experience in data scien
 
 💡 **Home Credit Default Risk Analysis (Spring 2024)**: I built machine learning models using Python to predict loan repayment ability, tackling class imbalance and achieving meaningful business insights to enhance credit scoring systems.
 
-📊 These projects reflect my passion for extracting insights from complex datasets and creating data-driven solutions. Explore my repositories to dive deeper into the process and outcomes. Let’s connect and collaborate on impactful analytics projects!
+📊 These projects reflect my passion for extracting insights from complex datasets and creating data-driven solutions. I enjoy working with Python, Alteryx, R, SQL, and visualization tools like Tableau and Power BI to turn messy data into clear, actionable solutions. Whether it’s optimizing operations or forecasting demand, I focus on creating work that drives real impact. Explore my repositories to dive deeper into the process and outcomes. Let’s connect and collaborate on impactful analytics projects!
